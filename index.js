@@ -1,0 +1,302 @@
+let data = `xdmgyjkpruszabaqwficevtjeo
+xdmgybkgwuszlbaqwfichvtneo
+xdmgyjkpruszlbcwwfichvtndo
+xdmgcjkprusyibaqwfichvtneo
+xdmgyjktruszlbwqwficuvtneo
+xdmgxjkpruszlbaqyfichvtnvo
+xdmgytkpruszlbaqwficuvtnlo
+xdmgydkpruszlbaqwfijhvtnjo
+xfmgyjkmruszlbaqwfichvtnes
+xdmgyrktruszlraqwfichvtneo
+xdmgyjkihuszlbaqdfichvtneo
+hdmgyjkpruszeiaqwfichvtneo
+xdmzyjkpruszlbaqwgichvtnxo
+xdmgyjknquszlbpqwfichvtneo
+idmgyjrpruszlbtqwfichvtneo
+xkmgyjkpruuzlbaqwfichvfneo
+xdmgyjkpruszlfaqwficnvtner
+xdmgyjkpruszlbpqwficwvteeo
+xdmgyjkpwuszlbiqwfhchvtneo
+xdmgyjkpruszwbaqwfichrtnbo
+xdpgyjkprusblbaqwfgchvtneo
+xdmryjkcruszlbaqwfichvtnee
+xwmgylkpruszlbaqwfcchvtneo
+xdmgyjkpruszflaqwfixhvtneo
+xdmgyjkmruszloaqwfichvteeo
+xvmgrjkpruszlbaqwfichvsneo
+xdmvyjkprusmlbaqwfichvtnes
+xdmgyjkpruszlbaqwfichkgbeo
+xdmgyikpruxzlbaqwfichvtnei
+xdmgyjkprugzlbaqhfichvtveo
+xdmgyjkpruszlbaqjaichftneo
+xdmzijkpruszlbaqwwichvtneo
+xdmgyjkprsszlbaqwfihhvlneo
+xdmgyjkprusqlwaqzfichvtneo
+ximgyjkpruszlbawwfichvtnen
+xsmgyjzpruszlbaqwfichvaneo
+xdmgyjkpruszlcaoyfichvtneo
+xdmgyjkprusmlbaqvnichvtneo
+xdmgyjkvruszmbaqwfichvtueo
+xdmgyjppuuszleaqwfichvtneo
+xddgyjkprubzlbaqwfichvaneo
+xdmgwjkpruszebaswfichvtneo
+xdogyjkpruszlblqwfichvdneo
+xdkgyjgpruszlbaqwfizhvtneo
+xdvgyjkpruszlbdqwfichvtqeo
+xdmgyjlpruszlbapwficgvtneo
+xdmgyjkpruszlbaqofickvtngo
+xdmgyjkprqszliaywfichvtneo
+xdqgyjkpruszlbcqwficnvtneo
+xdmgdjkpruszlbaqwxichvtseo
+xdmgyjkpruczlbaqwfichdtnfo
+xdmgyjkpruszluaqwficzvtnjo
+xdmgyjkproszlbaqwfacevtneo
+xfmgijkpruszlbrqwfichvtneo
+odmgyjkpluszlbaqwfichvuneo
+xdmgyjkpruszlbaqwwichukneo
+xdmgdjkpruszwbaqwfichvtnet
+xdmgyjkzrusvlbaqwrichvtneo
+xdmgylkprutzlbaqwfichvtnbo
+xdmgyjkpruszsbaqwfijtvtneo
+xdmgyjkproszlbjqwfichntneo
+xdmgyhkpluszlbaqwfichvtnlo
+xdmgyjhprushlbaqwfichvtnzo
+gdmoyjkpruszlbarwfichvtneo
+cdmgyjkpruszlbaqwfcchvtned
+xgmgyjkpruszlbaqwfschvtnek
+xdmgyjkprusnlzamwfichvtneo
+xdmgyjkprgszlbaxwfichvuneo
+txmgyjksruszlbaqwfichvtneo
+xdmgyjkprusbbbpqwfichvtneo
+xdmoyjkpruszlbaqwfighvtxeo
+xdmgyjkpruslhbaqwfichptneo
+xdmgzjkpruszlbaqwffcmvtneo
+xdmgyjkiruszlbaqgficuvtneo
+vdbgyjkpruszlbaqwfichvtnek
+xdmgyjspruszlbaqwfochvtney
+xdmgyjkpruszibaqwfivhvteeo
+xdmgyjkpruszfbaqwficbvtgeo
+xdmgyjkprystlbaqwxichvtneo
+xdmfyjkpryszlxaqwfichvtneo
+xdmgyjgpruspybaqwfichvtneo
+xdmgyjklruszlbjqwdichvtneo
+xdmgyjkzruszltaqwfichvtnek
+xdmgqjkpruszlzaqwfichvtneh
+xdmgyjhnruszlbaqwficqvtneo
+xdmgyjkproszlbaqweichvtnez
+xdmgyjkprurzlbaawfichytneo
+xdmgyfkpruszlbaqwfschutneo
+xdmnyjkpruszlbaawjichvtneo
+xdmgyjkpybszlbaqwfichvwneo
+xdmgtjkhruszlbaqwfichatneo
+xamgyjkprurzlbaqwfichvaneo
+xdmgyjkpruszlbaqwgichvtnqv
+ndmgyjkpruszlsaqwfuchvtneo
+xdmgygkpgusrlbaqwfichvtneo
+xdmgyjkpruszfbaqwfichvtnmy
+xdmgyjkprupflbaqwfichvjneo
+ndmgyjkpruszlbagwfichvtnxo
+xdmgyjkpruszlbafwfilhvcneo
+xdmgyjkpruszlbaqwfichvjsea
+xebgyjkpruszlbaqafichvtneo
+xdmkyjdpruszlbaqwfichvtnei
+xomgyjkprufzlbaqwfochvtneo
+xdmgyjkprfsllbaqwfiihvtneo
+xdmyyjkpruszebaqwficmvtneo
+xdmnyjkpruczlbarwfichvtneo
+xdmgyjkpruszcbaqwbichvtneg
+xdmgxjkpluszlbapwfichvtneo
+xgrlyjkpruszlbaqwfichvtneo
+xdmgyjkpruszlraqwxcchvtneo
+xdmhyjupruszlbaqafichvtneo
+xdmgnjkpruszlbkqwfjchvtneo
+xdmgyjkpruszlwaqwfichvtndg
+xdmgfjkpruvqlbaqwfichvtneo
+xdmgejkptuszlbdqwfichvtneo
+xlmgyjkpruszlnaqwfochvtneo
+xdmgcjkpruszlbaqwfiqhvaneo
+xdmgyjupruyzlbaywfichvtneo
+gdmgyjkpruyzlbaqwficevtneo
+xdmgyjkaruazlbapwfichvtneo
+xsmiyjkpruszlbaqwfichvtveo
+xdmiyjkprukzlbaqwfichvtnea
+xdbgmjkxruszlbaqwfichvtneo
+xdmgyjkpruskvbaqwfichdtneo
+xdmgyjkprusznbaqwficshtneo
+xdmgyjkprusrlbaqwfzchetneo
+xdmgyrkpruszzbaqwfichvtned
+xdmgyjkprusolbacwmichvtneo
+xdmgypkpruszlbaqwfichvtmgo
+xdmgyjkprumzlbhqwfichttneo
+xdmgydkprusglbaqwfichvtnei
+xdmuyjkpruszlbpqwfichvtyeo
+xdmtymkprusslbaqwfichvtneo
+xdmgyjjprkszlbaqwfqchvtneo
+xdmgvjdpruszlbaqwfichgtneo
+xdtgyjkpruwzlbaqwfjchvtneo
+xdmgyjkpruszlbafseichvtneo
+xdmgvjkpruszlraawfichvtneo
+xdmgyukprgszlbatwfichvtneo
+xhmgyjkpruszliaqwnichvtneo
+xdmgyjspruszlbwqyfichvtneo
+xdmgyjkjruszlqaqwfichvtnvo
+xdmgyjkiruszlbnqwfichmtneo
+ximgyjkpruszlbaqwfvcevtneo
+xdmdyjkpruszlbaqwsithvtneo
+ndmgyjkpruszlbaqwfilhatneo
+xdmgyjkpruszlbaqwfinhvcnez
+xdmgypkpsuszlbajwfichvtneo
+xdpgmjkpluszlbaqwfichvtneo
+xdmgyjnprupzlbaqwfichvtnel
+xbmgyjkprmszlfaqwfichvtneo
+xdmgyjkpausllbaqwfichvtseo
+xdmgyjkpruszlbaqwfqchttnes
+xgmgyjkpruszlbaxwfichvtneb
+xdmgyjkpruszabqqwfichvineo
+xdmgpjkpquszlbaqwfichvdneo
+xdmgyjkeruszlbaqdficbvtneo
+xdmaujkpruszlbaqwfichvteeo
+xdmgyjkpruszlbaqwrirhvtnev
+xdmgyjkpsugzllaqwfichvtneo
+xdmgyjkpruszlbaqwfichctnlm
+xdmeyjkpruszlbacwfiwhvtneo
+xdmgyjkpiuhzlbaqwfijhvtneo
+xdmgyjkpruszlbmqhfiohvtneo
+xdegyjkpbuszlbbqwfichvtneo
+xdmggxkpruszlbaqwfirhvtneo
+xdmgojkpruszlbaqvfichvtteo
+xdmgyjhtruszlbaqwmichvtneo
+rdmgyjkpruszlbaqwfichvthek
+xdlgyjqpruszlbaqwfbchvtneo
+xdmgyjspriszlbavwfichvtneo
+rdkgyjkpruszlbaqwfichvtnuo
+tdmgyjkuruszlbaqwfichvtnev
+xdmgyjkpxuszlbaqwfkchvtnso
+xdegyjkpruszlbbqxfichvtneo
+xdmgyjkpruszlbaqwficpvtket
+xdmgyjkpruszliaqwfnchvtnec
+xdmgyjkpreszlbaqwficdvtdeo
+rdmgyjkpruszlbaywfychvtneo
+xdmgywkpruszlbaqwficrvtaeo
+xdmgyjkpruszlbanwflchvoneo
+xdmgyjkpruyzlbaqufychvtneo
+symgyjkpruszlbaqwfichvtqeo
+xdmgyjkpruszlbaqwfichvbzqo
+xzfgyjkpruszlbaqwfichvtveo
+udmgyjepruszlbaqwfichbtneo
+xhmgyjkpruszlbaqwfjchvtnef
+xdhgyjkpruszlbaqaftchvtneo
+xdmzyjkjruszlbaqwfichvtnwo
+xdmgyjepruszlbaqwffchvtnef
+xdmgyjkprurzlbaqwfikhvtneq
+xomoyjkpruszkbaqwfichvtneo
+xdmgyjkpiuszubaqwfichktneo
+xdmgyjkprusdlbaqwhihhvtneo
+xdmgyjkpruszlbaqwwirhvxneo
+xdmgyjkpruszlbaqwficgitzeo
+xdmgyjlpruszlbaqwfichpjneo
+xjmgyjkpxuszlbaqwfichatneo
+xdmgylkpruszlbaqwfiehvtnez
+xdmgbjkpruszmbaqwfihhvtneo
+xdmgyjkprubzlwaqwfichvtxeo
+xdmgyjhlrustlbaqwfichvtneo
+xdmmyjkpruszlbaqwfdchitneo
+xdmgyjkpruszlbaqwoichhtbeo
+xdzgyjkprvszlcaqwfichvtneo
+ndmgyjkpruszlbaqwficavxneo
+xdmgyjfpruszxbaqzfichvtneo
+xdmgyjkpeuszlbaqzficdvtneo
+xdmgyjkpruszlbmqffidhvtneo
+xdnvyjkpruszlbafwfichvtneo
+xdygyjkpruszlbljwfichvtneo
+xdigyjkpruszlbeqwfuchvtneo
+xdmgyjkpruszlbpzwfichvteeo
+bdmgyjbpruszldaqwfichvtneo
+xdmgyjkprrszlbaqmpichvtneo
+idmgyjkpruszlbaqyfichvtkeo
+xdmgyjkmrqsclbaqwfichvtneo
+xdmgyjkpruazlbeqwfichvtxeo
+ddmgyjkpruszlbsqwfichotneo
+xdmgyqkpruszjbaqwfxchvtneo
+xdmnyjkpruozlbaqwfichvtreo
+edmgyjkpruszlbuqwwichvtneo
+xdmgyjkprmshlbaqwfichctneo
+xdmgyjkpruszlbaqwffghotneo
+xdmcyjkprfszlbaqnfichvtneo
+xdmgyjypruszhbaqwficyvtneo
+xdmgyjkprzszlyaqwficmvtneo
+xlmgyjkprzszlbaqwficyvtneo
+xdmgyjkprutulbaqwfithvtneo
+xdygyjkpruszlbpqwfichvpneo
+xdmgsjkpoumzlbaqwfichvtneo
+xdmgyjkpyuszlbaqdfnchvtneo
+xdxgyjkpruszlbaqwfizhvtnjo
+xdmgyjkpruszlbaqwfschvkndo
+xdmgpjkprnszlcaqwfichvtneo
+xhmgyjkpruszlbaqwficgvtnet
+xdmgyjkpruswlbaqwfichvtqer
+ddmgyjkprcszlbaqwfichqtneo
+xdmgyjkpruhhlbaqwpichvtneo
+xdmgyjkeraszlbaqwfichvtnso
+nomgyjkpruszlbaqwficavxneo
+xdmgyjkprdszlbaqwfobhvtneo
+xdmgyjkprgszlbaqwfichvtdao
+xomgyjspruswlbaqwfichvtneo
+xdzgyjkpruszlbaqwficwvpneo
+admgejkpruszlbaqwfimhvtneo
+xdtgyjkpruszlmaqwfiqhvtneo
+xdmgymkprusqlbaqwtichvtneo
+xdmgyjkpluszlbaqwfidhvtnea
+ztmgyjjpruszlbaqwfichvtneo`
+	.split('\n');
+
+/*
+ * Based on above input, returns the product of:
+ * - Lines with at least one char that appears exactly twice (2x).
+ * - Lines with at least one char that appears exactly thrice (3x).
+ */
+const puzzle3 = (data) => {
+	let doublesCount = 0, triplesCount = 0;
+	for (let line of data) {
+		let charTwice = false, charThrice = false;
+
+		const lookup = {};
+		for (char of line) {
+			if (!lookup[char]) lookup[char] = 0;
+			lookup[char] += 1;
+		}
+
+		for (key in lookup) {
+			if (lookup[key] === 2) charTwice = true;
+			if (lookup[key] === 3) charThrice = true;
+		}
+		if (charTwice) doublesCount++;
+		if (charThrice) triplesCount++;
+	}
+	return doublesCount*triplesCount;
+};
+
+/*
+ * Find the two strings with only one character different on the same index.
+ * (The answer is the sequence with only the repeated letters, for AoC)
+ */
+const puzzle4 = (data) => {
+	for (let i in data) { 
+		// i is a string, JavaScript, why?
+
+		for (let j = Number(i) + 1; j < data.length; j++) {
+			const cur = [...data[i]];
+			// const cur = data[i]; // ==> doesn't work?
+			const next = [...data[j]];
+
+			let diff = cur.reduce((a, c, i) => a + (c === next[i] ? 0 : 1), 0)
+
+			if (diff === 1) {
+				return (`${data[i]}\n${data[j]}`);
+			}
+		}
+	}
+};
+
+console.log(puzzle3(data));
+console.log(puzzle4(data));
