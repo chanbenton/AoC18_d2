@@ -285,8 +285,9 @@ const puzzle4 = (data) => {
 		// i is a string, JavaScript, why?
 
 		for (let j = Number(i) + 1; j < data.length; j++) {
+			
+			// Convert to array to use reduce.
 			const cur = [...data[i]];
-			// const cur = data[i]; // ==> doesn't work?
 			const next = [...data[j]];
 
 			let diff = cur.reduce((a, c, i) => a + (c === next[i] ? 0 : 1), 0)
